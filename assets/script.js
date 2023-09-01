@@ -35,5 +35,5 @@ $(document).ready(function () {
     if (storedValue !== null) {
       $(this).children('.description').val(storedValue);
     }
-    
+
 })});

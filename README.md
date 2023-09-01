@@ -12,6 +12,10 @@ N/A
 
 To dynamically keep track of your daily tasks. Whether it's for work or personal.
 
+## Credits
+
+N/A
+
 ## License
 
 N/A
