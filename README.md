@@ -24,7 +24,7 @@ N/A
 
 HTML, CSS, Javascript & Jquery
 
-## 
+## Link to deployed site
 
 https://james-brainard.github.io/Work-Day-Scheduler/
 
